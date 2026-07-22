@@ -58,7 +58,7 @@ TWIC (The Week In Chess) publie chaque lundi un fichier contenant toutes les par
 
 4. Télécharge l'application :
    ```bash
-   curl -LO https://github.com/TON-PSEUDO/twic-downloader/releases/latest/download/twic_app.py
+   curl -LO https://github.com/thomas-dev000/twic-downloader/releases/latest/download/twic_app.py
    ```
 
 5. Lance :
@@ -82,7 +82,7 @@ TWIC (The Week In Chess) publie chaque lundi un fichier contenant toutes les par
 3. Installe les dépendances et lance :
    ```bash
    pip3 install requests python-chess
-   curl -LO https://github.com/TON-PSEUDO/twic-downloader/releases/latest/download/twic_app.py
+   curl -LO https://github.com/thomas-dev000/twic-downloader/releases/latest/download/twic_app.py
    python3 twic_app.py
    ```
 
@@ -189,7 +189,7 @@ TWIC (The Week In Chess) publishes every Monday a file containing all chess game
 ```bash
 brew install python
 pip3 install requests python-chess
-curl -LO https://github.com/TON-PSEUDO/twic-downloader/releases/latest/download/twic_app.py
+curl -LO https://github.com/thomas-dev000/twic-downloader/releases/latest/download/twic_app.py
 python3 twic_app.py
 ```
 
@@ -199,7 +199,7 @@ python3 twic_app.py
 # Ubuntu / Debian
 sudo apt install python3 python3-pip python3-tk
 pip3 install requests python-chess
-curl -LO https://github.com/TON-PSEUDO/twic-downloader/releases/latest/download/twic_app.py
+curl -LO https://github.com/thomas-dev000/twic-downloader/releases/latest/download/twic_app.py
 python3 twic_app.py
 ```
 
