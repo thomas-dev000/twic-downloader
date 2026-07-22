@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+.venv/
+
+# PyInstaller
+*.exe
+*.app
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TWIC data (ne pas versionner les PGN telecharges)
+TWIC 20*/
+twic_state.json
+twic_config.json
+*.pgn
+*.pgn.tmp
+seen_hashes*.txt
+*.checkpoint.json
